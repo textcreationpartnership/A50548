@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at White-Hall in Lent, March the 16, 1682/3 by Richard Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50548</idno>
+            <idno type="STC">Wing M1627</idno>
+            <idno type="STC">ESTC R17024</idno>
+            <idno type="EEBO-CITATION">13640772</idno>
+            <idno type="OCLC">ocm 13640772</idno>
+            <idno type="VID">100898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at White-Hall in Lent, March the 16, 1682/3 by Richard Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[2], 37, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties special command."</note>
+                  <note>Advertisement on p. [1-2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ecclesiastes III, 21 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100898:1"/>
+            <pb facs="tcp:100898:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at WHITE-HALL IN LENT, <hi>MARCH</hi> the 16. 1682/3.</p>
+            <p>By RICHARD MEGGOTT, D D. Dean of <hi>Wincheſter,</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Bi<g ref="char:EOLhyphen"/>ſhops Head</hi> in St. <hi>Pauls Church-Yard.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:100898:2"/>
+            <pb n="1" facs="tcp:100898:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLESIASTES 3.21.</hi>
+                  </bibl>
+                  <p>Who knoweth the Spirit of Man that goeth upward, and the Spirit of the Beaſt that goeth downward to the Earth?</p>
+               </q>
+            </epigraph>
+            <p>THIS ſeemeth but an odd kind of Paſſage; and of all the Books in the World one would leaſt have expected it from the Holy Bible. That was written to <hi>inſtruct men in Righ<g ref="char:EOLhyphen"/>teouſneſs;</hi> but this tendeth rather to the hardening of them in their Wickedneſs: That was <hi>to build us up in our moſt Holy Faith,</hi> but this ſtriketh at the very Root of all Religion.</p>
+            <p>Before therefore we give any Anſwer to the Queſtion, it may do well to enquire how it cometh to be asked? As it pro<g ref="char:EOLhyphen"/>ceedeth from <hi>Solomon</hi> (whoſe Book this is) it may ſtartle us indeed, that a Man
+<pb n="2" facs="tcp:100898:3"/>of his Superlative Parts and Wiſdom ſhould inſinuate ſo dangerous and wretch<g ref="char:EOLhyphen"/>ed an Opinion! Speak ſo ſlightly of the <hi>Souls of Men,</hi> as if they were no other than ſuch as <hi>Beaſts</hi> have! If we look into the main Drift of his Writings, we ſhall find he had quite another Notion of them; and Chap. 12.7. he affirmeth ex<g ref="char:EOLhyphen"/>preſly, <hi>That when the Duſt ſhall go to the Earth as it was, our Spirits ſhall return un<g ref="char:EOLhyphen"/>to God that gave them.</hi> What then? <hi>Doth he uſe Lightneſs, that his Word towards us is Yea and Nay?</hi> No ſurely, not ſo nei<g ref="char:EOLhyphen"/>ther; but he bringeth in this not as a <hi>Doctrine,</hi> but a <hi>Misfortune,</hi> not as an <hi>Aſ<g ref="char:EOLhyphen"/>ſertion</hi> that ſo it is; but as a <hi>Lamentation,</hi> that ſo it is thought, that there is no dif<g ref="char:EOLhyphen"/>ference between <hi>our Souls</hi> and thoſe that are in the <hi>Beaſts.</hi>
+            </p>
+            <p>Among the Vanities the Sons of Men labour under, he accounteth this as one of the Chief, that they do not underſtand nor know themſelves, becauſe it is not ſo
+<pb n="3" facs="tcp:100898:3"/>very obvious to the heedleſs common Eye; and we fare in the ſame manner with the other Creatures here both in Life and Death: He obſerveth men are ſo beſot<g ref="char:EOLhyphen"/>ted as to imagine it is ſo after Death too, that it is all one then alſo, and we no more ſurvive than they do. This he bewail<g ref="char:EOLhyphen"/>eth as the Occaſion of many more Evils than otherwiſe would be under the Sun; and yet a Diſeaſe ſo <hi>Epidemical,</hi> that it was rare to find them who were wholly free from it, judging the Thoughts of others by thoſe which himſelf had ſometimes had, and ſpeaking in the name of the Perſon he had formerly been; he maketh as if the contrary Tenent were but a bare Surmize, and that which no body could be ſure of, <hi>who knoweth</hi> the Spirit of Man that goeth upward, and the Spirit of the Beaſt that goeth downward to the Earth.</p>
+            <p>This is the ſad caſe that is here upbrai<g ref="char:EOLhyphen"/>ded, and (Oh!) that there were no rea<g ref="char:EOLhyphen"/>ſon to continue it, that the Cauſe had
+<pb n="4" facs="tcp:100898:4"/>ceaſed with that Age it was written in, and that in ours it were as groundleſs as 'tis doleful! But Men talk too extrava<g ref="char:EOLhyphen"/>gantly to let us think ſo charitably; and what is here repreſented but as a Tem<g ref="char:EOLhyphen"/>ptation, is now adopted into an Opini<g ref="char:EOLhyphen"/>on.</p>
+            <p>That therefore what is here obſerved, may tend to our better edifying, I ſhall diſcourſe upon the Deſign and Scope of it under theſe following Propoſitions.</p>
+            <p>
+               <hi>Firſt,</hi> That all men are not ſo well convinced and ſatisfied as they ought, that their own Souls are other than ſuch as <hi>Beaſts</hi> have, they heſitate, as if they they could not well tell what to think of it: <hi>Who knoweth,</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly,</hi> That though it be not ſo e<g ref="char:EOLhyphen"/>vidently apprehended, yet there is a won<g ref="char:EOLhyphen"/>derful and real Difference between them, <hi>The Spirit of Man goeth upward, and
+<pb n="5" facs="tcp:100898:4"/>the Spirit of the Beaſt goeth downward to the Earth.</hi>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> That the obſerving and Conſi<g ref="char:EOLhyphen"/>deration of this Difference would be an excellent Remedy for the mortifying and removing the Sins and Vanities of Hu<g ref="char:EOLhyphen"/>mane Life: To this he doth aſcribe them, that Men have not a due Sence of their own Excellency and Immortality, <hi>Who knoweth the Spirit of Man,</hi> &amp;c.</p>
+            <p>I begin with the Firſt of theſe, That all Men are not ſo well convinced and ſatiſ<g ref="char:EOLhyphen"/>fied as they ought, that their own Souls are other than ſuch as Beaſts have. It muſt be acknowledged for the Honour of our <hi>Species,</hi> that the National Opinion throughout the World, hath and doth every where run in the <hi>Affirmative<g ref="char:punc">▪</g>
+               </hi> There is not a Kingdom or Country on the Face of the whole Earth, yet diſco<g ref="char:EOLhyphen"/>vered, ſo barbarous, which doth not pub<g ref="char:EOLhyphen"/>lickly profeſs to believe better. But the
+<pb n="6" facs="tcp:100898:5"/>Spirit that ſearcheth all things giveth ano<g ref="char:EOLhyphen"/>ther kind of Account of Mens Perſonal Inward Perſwaſions; and acquainteth us, that they who do not deny the received notion of them as falſe, yet very ordinarily are but too miſtruſtful whether it be true.</p>
+            <p>
+               <hi>Gerſon</hi> telleth of a Friend of his, who for a long while had been very much fluctuating in his Mind about this thing, that at laſt came to him, and with great Joy told him, That by Reading and Meditation, by Prayer, and the uſe of Means, he was attained to ſuch a Plero<g ref="char:EOLhyphen"/>phory, that he did now no more queſti<g ref="char:EOLhyphen"/>on the <hi>things that are not ſeen</hi> than the <hi>things that are ſeen;</hi> and did as firmly be<g ref="char:EOLhyphen"/>lieve the <hi>Immortality of his Soul,</hi> as he did the <hi>Mortality of his Body.</hi> Such are the Fruits of pious and ſincere Endeavours, that by the Bleſſing of God they over<g ref="char:EOLhyphen"/>come and conquer theſe untoward Suſpi<g ref="char:EOLhyphen"/>cions; but without them they do not uſe
+<pb n="7" facs="tcp:100898:5"/>to go off of themſelves, but by Fits and Occaſions will diſturb and haunt us.</p>
+            <p>And there are two things in our very Conſtitution that do much contribute to it.</p>
+            <p>The Firſt is, <hi>the very little we underſtand in this State of what the Soul is.</hi> She (like the Eye) ſeeth all things elſe, but cannot ſee her ſelf but in an imperfect Looking-Glaſs: Could ſhe behold her ſelf as ſhe is, ſhe could never doubt more: Then ſhe would accoſt her ſelf as <hi>Jacob</hi> did his Brother, and ſay, <hi>I have ſeen thy Face as the Face of God.</hi> She would diſcover ſomething Divine and Coeleſtial in her own Countenance: But now, as a Child of high Deſcent that was dropped at his Birth in a ſtrange Place, and can give no Account of his own Quality, is eaſi<g ref="char:EOLhyphen"/>ly made believe, that they are his Parents with whom he hath lived ever ſince he can remember, and thoſe his Brethren
+<pb n="8" facs="tcp:100898:6"/>with whom he hath uſed to eat and play. So it is here; being placed in the Body, and dwelling there from the very firſt, it is apt to be perſwaded it hath no other Original; but is the Product of Matter, as that which animateth the other Crea<g ref="char:EOLhyphen"/>tures; and ſo in this Sence <hi>ſaith to Corrup<g ref="char:EOLhyphen"/>tion, thou art my Father, and to the Worm, thou art my Mother and my Siſter.</hi>
+            </p>
+            <p>They who have ſearched moſt indu<g ref="char:EOLhyphen"/>ſtriouſly after her, the moſt profound and eminent Philoſophers do not at all agree in their Diſcoveries: Some will have it one thing and ſome another; and ſo far is what the beſt of them have ſaid from ſatisfying others, that it is plain enough from <hi>Socrates</hi>'s, <hi>Ariſtotle</hi>'s, <hi>Tully</hi>'s, <hi>Seneca</hi>'s faint miſgiving Paſſages about her, it hath been unſatisfactory to them themſelves. We are formally taught that it is a <hi>Spi<g ref="char:EOLhyphen"/>rit;</hi> but when all is done we cannot tell <hi>what a Spirit is,</hi> and all that we know of it, is only what it is not. Though ſhe be
+<pb n="9" facs="tcp:100898:6"/>within us we cannot perceive her, ſhe putteth a Veil upon her ſhining Face, and near us as ſhe is we cannot diſcern the Form of her: And that may be one Ac<g ref="char:EOLhyphen"/>count why Men are ſo ſtaggered about the <hi>Pre-eminence of their Souls,</hi> the very little they truly underſtand of what the <hi>Soul</hi> is.</p>
+            <p>The other is the very great Reſem<g ref="char:EOLhyphen"/>blance between <hi>them</hi> and thoſe the <hi>Beaſts have</hi> in their <hi>Functions and Operations.</hi> The curious and uſeful Offices which <hi>ours</hi> perform in us, it is viſible <hi>theirs</hi> alſo per<g ref="char:EOLhyphen"/>form in them. Do <hi>ours</hi> give Life and Motion to the Body? So do theirs too. Do <hi>we</hi> ſee, and hear, and feel, and ſmell and taſte? So do <hi>they</hi> too much more ex<g ref="char:EOLhyphen"/>actly. Have we our Affections and Paſ<g ref="char:EOLhyphen"/>ſions? So have <hi>they,</hi> their Love, their Anger, their Grief, their Joy, according to the Occaſions. Do <hi>we</hi> retain the Memory of things when they are paſt
+<pb n="10" facs="tcp:100898:7"/>and gone? So do <hi>they</hi> too, of Perſons, Kindneſſes, and ill Turns. Nor is this all, even in that which we pretend our peculiar Prerogative, Ratiocination, they ſeem to have a Share too; their Know<g ref="char:EOLhyphen"/>ledge extendeth not only to ſimple Ob<g ref="char:EOLhyphen"/>jects, but it is evident by the Subtilty and Docibility which is ſo wonderful in many of them, even to Propoſitions, Aſ<g ref="char:EOLhyphen"/>ſumptions and Deductions.</p>
+            <p>Several beneficial and choice Accom<g ref="char:EOLhyphen"/>pliſhments which are Arts in us, and at<g ref="char:EOLhyphen"/>tained with Difficulty, in them are natu<g ref="char:EOLhyphen"/>ral; and ſome are of Opinion that we learned them firſt from them: That we had our <hi>Architecture</hi> from the <hi>Neſts of the Swallow,</hi> our <hi>Muſick</hi> from the <hi>Notes of the Nightingale,</hi> our <hi>Weaving</hi> from the Work of the <hi>Spider;</hi> our Skill in Simples, from Obſervation of what ſeveral of the <hi>Beaſts</hi> in their Extremities have Recourſe to. However (without magnifying the
+<pb n="11" facs="tcp:100898:7"/>thing fancifully) thus much is certain, though it be in an inferior Manner, yet ſomething they have of all theſe things we value our ſelves ſo much upon: And from hence, becauſe they are in ſo many things ſomething <hi>like,</hi> ſenſual and ſuperficial Men have great Jealouſie that they are the <hi>ſame:</hi> For the preventing or curing which dangerous imagination, I now pro<g ref="char:EOLhyphen"/>ceed to the better Information, which is to be gathered from the Text, my next Propoſition.</p>
+            <p>That notwithſtanding this ſpecious <hi>Reſemblance,</hi> there is a great and real Dif<g ref="char:EOLhyphen"/>ference; ſo great, as that we may con<g ref="char:EOLhyphen"/>clude from it they have not both the ſame <hi>End;</hi> but that <hi>the Spirit of the Man goeth upward, though the Spirit of the Beaſt go<g ref="char:EOLhyphen"/>eth downward to the Earth.</hi>
+            </p>
+            <p>What hath been ſaid of our Country in particular, that it can never be con<g ref="char:EOLhyphen"/>quered but by it ſelf, the Diviſions and
+<pb n="12" facs="tcp:100898:8"/>Treacheries of its own Inhabitants, is as true of our Nature in general, it cannot be degraded but by it ſelf, the Neglect and Abuſe of its own Faculties.</p>
+            <p>Did we exerciſe theſe as we might and ought, we could not be overcome by an Hoſt of ſuch Objections: For though we are ſo much in the Dark about the <hi>Hu<g ref="char:EOLhyphen"/>mane</hi> Soul, yet we may well enough di<g ref="char:EOLhyphen"/>ſcern it from the <hi>Brutal;</hi> and notwith<g ref="char:EOLhyphen"/>ſtanding the ſpecious Appearance of their <hi>Likeneſs,</hi> yet there is ſo vaſt an <hi>
+                  <g ref="char:V">Ʋ</g>nlike<g ref="char:EOLhyphen"/>neſs,</hi> that it muſt be a very hard thing for him that coolly thinketh on both, really to perſwade himſelf that they are of the ſame kind.</p>
+            <p>That this may appear the clearer, we will take a particular View of the chief<g ref="char:EOLhyphen"/>eſt of thoſe things that ſeem common to them with us, wherein it is pretended that they parallel us.</p>
+            <pb n="13" facs="tcp:100898:8"/>
+            <p>There are Four things the <hi>Beaſts</hi> have ſomething of as well as we,
+<list>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nderſtanding,</hi>
+                  </item>
+                  <item>
+                     <hi>Will,</hi>
+                  </item>
+                  <item>
+                     <hi>Habits,</hi> and</item>
+                  <item>
+                     <hi>Illuminations.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now let us compare each of theſe with our own, enquire and ſee whether it be likely they are of the ſame ſort; and,</p>
+            <p>
+               <hi>Firſt,</hi> Let us look upon their Under<g ref="char:EOLhyphen"/>ſtandings: It is confeſſed, that when they firſt appear in the World, they have much the Start of us: and there is not any of them, but in <hi>chooſing their proper Food,</hi> in <hi>knowing their natural Enemies,</hi> in <hi>providing for their own Support,</hi> have the Advantage of an Infant: Beſides theſe, ſome farther Improvements they make afterwards themſelves. By <hi>Experience, Imitation, Inſtitution,</hi> they acquire ſuch Cunning and Tricks in their way as look
+<pb n="14" facs="tcp:100898:9"/>very ſagacious and ſurprizing: But yet all this is ſtill but the Miniſtry and Work of <hi>Sence,</hi> by thoſe Impreſſions which they receive upon their Imaginations from Ex<g ref="char:EOLhyphen"/>ternal Objects: And if all the Know<g ref="char:EOLhyphen"/>ledge of Men came ſo (large as it is, and ſurmounting theirs) I needs muſt ſay, the Difference then would be only in <hi>De<g ref="char:EOLhyphen"/>gree.</hi>
+            </p>
+            <p>But beſides this, we have another <hi>Way,</hi> a <hi>Superior Way of Knowing,</hi> which preſi<g ref="char:EOLhyphen"/>deth over this, and when it is out (as oft it is) correcteth its Miſtakes, and inform<g ref="char:EOLhyphen"/>eth it better: If we had no other Guide but <hi>that,</hi> we ſhould believe the <hi>Sun</hi> leſs than a <hi>Buſhel,</hi> the <hi>Moon</hi> bigger than any of the fixed <hi>Stars,</hi> with a hundred ſuch like Errors: For ſo they are repreſented to the <hi>Imagination.</hi> Now how come we to perceive their Falſeneſs? How could this ever be, if we had not ſomething above <hi>Sence;</hi> ſome greater Faculty that did con<g ref="char:EOLhyphen"/>troll it?</p>
+            <pb n="15" facs="tcp:100898:9"/>
+            <p>It is true, even this ſo dependeth up<g ref="char:EOLhyphen"/>on the <hi>Diſpoſition of the Organs,</hi> that if they are either defective by <hi>Nature,</hi> or decayed by <hi>Age,</hi> or hurt by a <hi>Diſeaſe,</hi> or diſordered by a <hi>Debauch,</hi> it is hinder<g ref="char:EOLhyphen"/>ed in its Operations. So is a curious Writer by a lame Hand, or but a bad Pen; but as they, if both never ſo well, could not make a Letter without <hi>his</hi> Skill: So in this caſe too, though it cannot, where the <hi>Organs</hi> are at fault, yet (as ap<g ref="char:EOLhyphen"/>peareth by the Anatomy of our Brain, which differeth not conſiderably, except in Quantity, from that of Beaſts) it is ſomething higher than theſe <hi>Organs</hi> that act thus: So that here is one <hi>Difference,</hi> between our <hi>Souls</hi> and thoſe of <hi>Beaſts,</hi> a Difference in their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings.</hi>
+            </p>
+            <p>A <hi>Second</hi> is in their <hi>Wills:</hi> They chooſe and refuſe ſtill as things appear to their Sences, pleaſing or unpleaſing: As they <hi>ſay to them, they go or come;</hi> and as they
+<pb n="16" facs="tcp:100898:10"/>bid them <hi>do this, or that, they do it,</hi> follow their Dictates conſtantly and qui<g ref="char:EOLhyphen"/>etly; and ſo it would be with us too, had we nothing in us but what they have.</p>
+            <p>But if <hi>it be ſo, why are we thus?</hi> Two Deſires are in our Breaſts, and two man<g ref="char:EOLhyphen"/>ner of <hi>Wills</hi> are ſtrugling in our Boſoms. There is a <hi>Law</hi> in our <hi>Minds</hi> that con<g ref="char:EOLhyphen"/>tradicteth and oppoſeth the <hi>Law of our Members;</hi> and what the <hi>Outward Man</hi> commandeth, the <hi>Inward</hi> often will not endure. We cannot without Remorſe do many things that we <hi>would,</hi> and when we yield our ſelves to the <hi>Will of the Fleſh,</hi> there is ſomething within us, that even then reproacheth us for doing ſo. Inſo<g ref="char:EOLhyphen"/>much that what the rude <hi>Turks</hi> do coarſely; when they are ſetting to a Debauch, firſt give a Shout; which they ſay is a Warn<g ref="char:EOLhyphen"/>ing to their <hi>Souls</hi> to retire into their Heels, that <hi>they</hi> may not be Witneſſes to their intended Beſtiality: All others in ſuch
+<pb n="17" facs="tcp:100898:10"/>Caſes are fain to do in <hi>Effect,</hi> uſe Arts to ſhift and get rid of themſelves before they can comply well. There are none but feel this at one time or other; and what<g ref="char:EOLhyphen"/>ever they do themſelves, cannot but in<g ref="char:EOLhyphen"/>wardly approve of thoſe as the moſt ex<g ref="char:EOLhyphen"/>cellent Perſons, that deny the Senſual Part, even in things where the Body would receive no Prejudice by being gra<g ref="char:EOLhyphen"/>tified.</p>
+            <p>Now how could this be, if there were nothing but Corporeal and Material Soul in us? Where then ſhould be the differing Parties? Doth the ſame Foun<g ref="char:EOLhyphen"/>tain ſend forth both ſweet Waters and bitter? Can the ſame thing be adverſe and contrary to it ſelf? Is it ſo with <hi>the Dog in his Vomit?</hi> No, this perpetual Diſcord argueth there is ſomething pecu<g ref="char:EOLhyphen"/>liar in the Sons of Men: And that is a Second Difference between <hi>our Spirits</hi> and <hi>theirs,</hi> a Difference in our <hi>Wills.</hi>
+            </p>
+            <pb n="18" facs="tcp:100898:11"/>
+            <p>A <hi>Third</hi> there is in our <hi>Habits:</hi> I ſpeak not of <hi>acquired</hi> ones, thoſe which are the Fruits of frequent Exerciſe and Induſtry; but thoſe which by the Schools are called <hi>infuſed:</hi> Such Diſpoſitions and Capacities as are communicated to, and engrafted in each by the Author of their Beings. And of this kind we have one of mighty Moment, ſo peculiar to us, that if there were nothing elſe to inſtance in, might of it ſelf convince us ſufficiently; and that is <hi>Religiouſneſs,</hi> an Univerſal Bent and Incli<g ref="char:EOLhyphen"/>nation to the Worſhip and <hi>Fear of God.</hi>
+            </p>
+            <p>They who are moſt for levelling us with the Inferiour Animals, their moſt eager Advocates freely grant them ſo far from this, that they will not allow them the leaſt Apprehenſion of ſuch a Being: Nor indeed is it poſſible they ſhould have any. How can they that have only Cor<g ref="char:EOLhyphen"/>poreal Phantaſms frame any <hi>Idea</hi> of him; Theſe are ſo far from helping us in form<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:100898:11"/>a diſtinct Conception of an <hi>Infinite Immaterial being,</hi> that Experience ſhew<g ref="char:EOLhyphen"/>eth they but diſtract and hinder us, when we attend to it: And yet Mankind of <hi>all Ages,</hi> former and later, of <hi>all Places,</hi> civil and barbarous, of <hi>all Complexions,</hi> ſan<g ref="char:EOLhyphen"/>guine and melancholly, of <hi>all Capacities,</hi> wiſe and weak, as by Inſtinct and ſecret Impulſe own and feel after him.</p>
+            <p>I know there have been ſome <hi>Atheiſts</hi> in the World; but I dare ſay, not half ſo many as there have been <hi>Monſters;</hi> and if theſe do not make us alter our O<g ref="char:EOLhyphen"/>pinion of what is <hi>Natural</hi> as to our Shapes; why ſhould thoſe make us call in Queſti<g ref="char:EOLhyphen"/>on what is ſo as to our Minds?</p>
+            <p>They that pretend this is not any na<g ref="char:EOLhyphen"/>tural <hi>Impreſſion,</hi> but only the Influence of <hi>Education,</hi> contrived for Convenience by <hi>Politicians,</hi> may as well ſay of the Trees in the un-inhabited parts of the World, that they were not produced by the Na<g ref="char:EOLhyphen"/>ture
+<pb n="20" facs="tcp:100898:12"/>of the Earth; but ſecretly planted by a Knot of Gardiners. If it were merely Artificial it would not be Uni<g ref="char:EOLhyphen"/>verſal; and where it was, would decay without Care and conſtant looking to: But on the contrary, it is ſo agreeable to the Humane Soul, that it ſpringeth up in all of them; and they who do all they can are not able utterly to extirpate it, ſo much as out of their ſingle Selves. From this Principle and Propenſity cul<g ref="char:EOLhyphen"/>tivated, ſpring <hi>Faith, Devotion, Love, Sincerity, Softneſs of Heart, Denyal of our ſelves, Sorrow for Sin, Care for Eternity,</hi> with many other Heavenly and diſtin<g ref="char:EOLhyphen"/>guiſhing Qualities, by which Glorious Things are ſpoken of thee, Oh thou In<g ref="char:EOLhyphen"/>ward Man! And do theſe look like the Product of <hi>Matter and Motion?</hi> Can <hi>Sence</hi> be the Parent of <hi>Moral Vertue?</hi> Have <hi>Brutes</hi> ſuch a Faculty in them as <hi>Conſci<g ref="char:EOLhyphen"/>ence?</hi> Are the <hi>Horſe and the Mule</hi> Sub<g ref="char:EOLhyphen"/>jects capable of <hi>Divine Grace?</hi> If they
+<pb n="21" facs="tcp:100898:12"/>are not, why ſhould it be thought they have ſuch <hi>Spirits</hi> as we? That is a <hi>Third</hi> Difference between <hi>our Spirits</hi> and <hi>theirs,</hi> a Difference in our <hi>Habits.</hi>
+            </p>
+            <p>I ſhall add a <hi>Fourth</hi> as apparent as any, and that is a Difference in their <hi>Illuminations.</hi> This I mention diſtinct from the Underſtanding, as meaning by it only that part of their <hi>Knowledge</hi> where<g ref="char:EOLhyphen"/>in both are merely <hi>paſſive,</hi> and contribute nothing. Of this kind the Creatures a<g ref="char:EOLhyphen"/>bout us every one have their <hi>Omer,</hi> what is ſufficient and convenient for them un<g ref="char:EOLhyphen"/>accountably put into them by the provi<g ref="char:EOLhyphen"/>dent Hand of him that made them: but with Men, beſides that <hi>Candle of the Lord</hi> (as the wiſe Man calleth it) ſet up in the whole <hi>Species,</hi> there is ſometimes a Super<g ref="char:EOLhyphen"/>natural Light that ſhineth in upon Indi<g ref="char:EOLhyphen"/>dividuals; and the <hi>Father of Spirits</hi> upon Occaſion hath been pleaſed to honor them with <hi>Revelations;</hi> at ſundry Times,
+<pb n="22" facs="tcp:100898:13"/>and in divers Manners, ſpeaking to them himſelf immediately. For though there have been great Frauds and Impoſtures about theſe matters; and ſuch things have often been pretended by ſome, and as oft believed by others where there was no Realty: Yet he muſt be very skeptical indeed, that upon that Account will give Credit to none. Who can reaſonably doubt but the <hi>Divine Myſteries of our Faith</hi> were communicated this way, when he recollecteth by how many mighty Mi<g ref="char:EOLhyphen"/>racles this manner of their Conveyance hath been confirmed to us? Who can make any Queſtion but that the ſeveral <hi>Propheſies in Scripture</hi> were imparted in this manner, when he findeth how the E<g ref="char:EOLhyphen"/>vents many Hundreds of Years after ſo punctually and preciſely anſwered the Pre<g ref="char:EOLhyphen"/>dictions?</p>
+            <pb n="23" facs="tcp:100898:13"/>
+            <p>It is true, this hath been the Caſe com<g ref="char:EOLhyphen"/>paratively but of few Perſons; but be<g ref="char:EOLhyphen"/>ing as well ſatisfied as we can be of Mat<g ref="char:EOLhyphen"/>ter of Fact that it hath been of any, the Argument hath ſtill the ſame Force, and equally proveth what it is alleadged for; as if it were univerſal and conſtant, <hi>viz.</hi> that we have a more peculiar way of <hi>Il<g ref="char:EOLhyphen"/>lumination;</hi> by <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thummim,</hi> by Dreams and Viſions, by Angels and In<g ref="char:EOLhyphen"/>ſpirations, things above our Underſtan<g ref="char:EOLhyphen"/>ding, and Secrets that were then to come have been manifeſted to ſome for the Benefit of all: And is this to be over-looked as nothing? Shall it procure them no Veneration, that God himſelf taketh ſuch Signal Notice of them? Are any but <hi>ours</hi> Partakers of this Privi<g ref="char:EOLhyphen"/>ledge?</p>
+            <p>The Three former ſpeak a clear Dif<g ref="char:EOLhyphen"/>ference in <hi>Kind,</hi> and are alſo ſuch pro<g ref="char:EOLhyphen"/>bable Arguments of the <hi>Immortality of our
+<pb n="24" facs="tcp:100898:14"/>Spirits,</hi> though <hi>theirs</hi> are <hi>mortal,</hi> that they and ſuch like have always obtained gene<g ref="char:EOLhyphen"/>ral Belief. I will not ſay they are ſo concluding, as that nothing can be obje<g ref="char:EOLhyphen"/>cted againſt them: Perhaps Natural Light cannot fully demonſtrate it: But if we take in this laſt alſo, that of <hi>Divine Re<g ref="char:EOLhyphen"/>velations,</hi> then there remaineth no more place for doubting. For beſides the great unlikelihood, that the Almighty ſhould manifeſt himſelf in ſuch gracious needleſs manner to <hi>Spirits</hi> of that low Rank, <hi>(Doth God take Care for Oxen)</hi> this is one thing he hath revealed to them, that they are not ſuch; and that there is not only a <hi>Difference</hi> as to their <hi>Kind;</hi> but alſo as to their <hi>End. The Spirit of the Man go<g ref="char:EOLhyphen"/>eth upward,</hi> &amp;c.</p>
+            <p>And were this reflected on ſo ſeriouſly as it ought, that our Spirits die not with our Bodies; but have an Everlaſting Du<g ref="char:EOLhyphen"/>ration, what manner of Perſons would
+<pb n="25" facs="tcp:100898:14"/>it make us? How careful that it may be well with them when they go from hence? To this <hi>Solomon</hi> aſcribeth the Sins and Vanities he complaineth of in Humane Life, that they were not ſo well convin<g ref="char:EOLhyphen"/>ced, and did not ſo well conſider their own Excellency and Immortality. And this bringeth me to the laſt Propoſition I am to ſpeak to, Namely that</p>
+            <p>The Obſervation and conſidering of this Difference between our <hi>Spirits</hi> and thoſe of the <hi>Beaſts</hi> would be an Excellent Means for the mortifying and amending the Miſcarriages and Vanities of Humane Life. <hi>Who knoweth,</hi> &amp;c. The reaſon of them he ſuppoſeth is their not being ſuffi<g ref="char:EOLhyphen"/>ciently poſſeſſed and affected with this.</p>
+            <p>When Saint <hi>Paul</hi> reaſoned of <hi>Judg<g ref="char:EOLhyphen"/>ment to come</hi> it made Licentious <hi>Felix</hi> trem<g ref="char:EOLhyphen"/>ble. We, <hi>Italian</hi>-like that ring the Bells to drown the Noiſe of thunder, expel
+<pb n="26" facs="tcp:100898:15"/>out of our Minds ſuch ſevere and ſtartling thoughts, with the lowd Iuſtruments of this Worlds Buſineſs and Enjoyments, did we not, it muſt needs be ſo with us too: It is the not meditating upon our future State that maketh us behave our ſelves as we do, a conceit that they may dye like <hi>Beaſts</hi> that hardneth Men to live ſo.</p>
+            <p>The moſt Notorious Miſcarriages of Men <hi>Solomon</hi> in this Book hath ranked un<g ref="char:EOLhyphen"/>der theſe three Heads,
+<list>
+                  <item>
+                     <hi>Voluptuouſneſs,</hi>
+                  </item>
+                  <item>
+                     <hi>Earthly mindedneſs,</hi> and</item>
+                  <item>
+                     <hi>Prophaneneſs.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe are the unhappy Mothers of all the other either Sins or Follies he maketh remarques on. Now the firm belief and Solemn Conſideration of this great Arti<g ref="char:EOLhyphen"/>cle, he more than once remembreth us would be a Cure for all of them.</p>
+            <pb n="27" facs="tcp:100898:15"/>
+            <p>Firſt for <hi>Voluptuouſneſs,</hi>
+            </p>
+            <p>A receipt for this ought not a little to be prized, if it were but for the rifeneſs of the Diſtemper which is ſo very catching. Indeed none ſo apt to be infected with it as thoſe in great and Proſperous Circum<g ref="char:EOLhyphen"/>ſtances; their Temptations are extraordi<g ref="char:EOLhyphen"/>nary, and though ſometimes their under<g ref="char:EOLhyphen"/>ſtandings be ſo too, yet they are violent<g ref="char:EOLhyphen"/>ly born down by them: It appeareth by his own Pen here <hi>Chap.</hi> 2. ſo it fared with <hi>Solomon</hi> himſelf for ſome Years, notwith<g ref="char:EOLhyphen"/>ſtanding all his Knowledge and Accom<g ref="char:EOLhyphen"/>pliſhments: but though theſe chiefly, it is not theſe only that are enſnared by her: She hath Idolatries of all ſorts, and not only they that wear ſoft Cloathing, but they that are ſcarce able to cover their Nakedneſs, devote themſelves to her.</p>
+            <p>Now if with ſuch our Inclinations there ſhould meet this ſad Deluſion, that there is no Life but this, what hopes would
+<pb n="28" facs="tcp:100898:16"/>there be of amending or reclaiming Men? When once they have imbibed this Opiat Principle, there will be no awakening them; then they will reckon it not their fayling but their Philoſophy to indulge themſelves. Accordingly this ſort of Peo<g ref="char:EOLhyphen"/>ple uſed among the Antients to place a Scull upon the Table at their Feaſts, not to correct but provoke their Extravagan<g ref="char:EOLhyphen"/>cies, to keep them Sober but to make them Madder; that ſeeing they muſt ſhortly be ſuch as that, they ſhould live as faſt as they could, and be diligent to get their fill of Senſuallity.</p>
+            <p>But with what Horror doth he that is convinced of his exiſtence beyond the Grave look upon ſuch Reſolutions? what Stomach can he have to ſuch dangerous Dainties, that looketh forward upon the everlaſting Conſequences? It was wittily ſaid of the Poet in <hi>Atheneus,</hi> If the Head<g ref="char:EOLhyphen"/>ach did but come firſt, Men would not
+<pb n="29" facs="tcp:100898:16"/>be drunk: And St. <hi>Auſtin</hi> deſcanting up<g ref="char:EOLhyphen"/>on that deſperate Paſſage of them in the Prophet <hi>Iſaiah</hi> 22. <hi>Let us eat and drink, for to morrow we ſhall die.</hi> Certainly (ſaith he) theſe men were diſtracted as well as debauched, that could conclude thus: Had they been themſelves it would ra<g ref="char:EOLhyphen"/>ther have been, <hi>Let us faſt and pray, let us repent and redeem our time, for to mor<g ref="char:EOLhyphen"/>row we ſhall die.</hi> This is ſound and pro<g ref="char:EOLhyphen"/>per arguing, ſuch as Conſcience can make no Reply to; and therefore no more is ſaid to the wild Extravagant, Chap. 11.9. but only this, <hi>Know thou that for all theſe things God will bring thee into Judgment.</hi> It is ſuppoſed ſuch a Rational Creature as Man, when he cometh to think ſeri<g ref="char:EOLhyphen"/>ouſly upon this, will be wiſer than to <hi>walk in the ways of his own Heart, and the Light of his own Eyes.</hi>
+            </p>
+            <p>That is a <hi>Firſt</hi> thing inſiſted on, that a due Conſideration of the Nature
+<pb n="30" facs="tcp:100898:17"/>of our Spirits would prevent the Sins of <hi>Voluptuouſneſs.</hi>
+            </p>
+            <p>A <hi>Second</hi> is <hi>Earthly-mindedneſs.</hi> This he ſpeaketh of in the fourth, and again Chap. 6. as another Reigning Vanity: The former is a Sin againſt our ſelves; this againſt our Neighbours; being the Cauſe of all that Oppreſſion, Couſenage, Uncharitableneſs, Envying, Ambition, Contention that the World is peſter'd and diſturbed with. Whence come all theſe unſeemly and miſchievous Doings, but from not conſidering, that this is but our Paſſage to the place we muſt dwell for ever in; and that according to our Be<g ref="char:EOLhyphen"/>haviour in the way here, will be our Entertainment at our Journeys End? Were this well imprinted on us, as much need as we have of theſe things, ſurely we could never think we have ſo much, as for the while, the uncertain little while we can enjoy them, to do that in pur<g ref="char:EOLhyphen"/>ſuit
+<pb n="31" facs="tcp:100898:17"/>of them, that will make us either bluſh or tremble, be either aſham'd or afraid when we are to leave them. When <hi>Scipio</hi> in <hi>Tully</hi> is relating the Dream of his Aſcenſion among the Stars, he ſaith, as he looked down from thence upon the Earth, the whole looked like ſo dull and inconſiderable a Spot, that he was abaſhed and out of Countenance, to think of the Meanneſs of Men, in making ſuch a Stir and Buſtle for any of the Scraps and Pieces of it. Indeed, he that goeth up into the Mount, and looketh upon the things above, the Tranſcendent Glo<g ref="char:EOLhyphen"/>ries that we are deſigned for muſt needs have the ſame Thoughts; the things of this World cannot but from thence look very ſmall and little to him. The Apoſtle ſpeaking of them that <hi>died in Faith,</hi> in the Faith of theſe Great Arti<g ref="char:EOLhyphen"/>cles, <hi>Hebr.</hi> 11. giveth them this Chara<g ref="char:EOLhyphen"/>cter, that they looked upon themſelves as <hi>Strangers and Pilgrims on the Earth:</hi> No
+<pb n="32" facs="tcp:100898:18"/>more ſet their Hearts upon that, than the Traveller on the Inn he only lodgeth in for a Night, and on the morrow muſt be gone from; think of it for their preſent Convenience, but by no means dote of it as their Standing Happineſs. This is the Natural Reſult and Conſequence of ſuch Perſwaſions and Meditations: And that is a Second ſort of Evils the Conſi<g ref="char:EOLhyphen"/>deration of the Nature of our Spirits would prevent, thoſe of <hi>Earthly-minded<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>The <hi>Third</hi> is <hi>Profaneneſs,</hi> which is mentioned in <hi>this,</hi> and again treated on more largely Chap. 9. as under the <hi>Firſt</hi> Head are comprehended the Sins againſt <hi>our ſelves;</hi> under the <hi>Second</hi> thoſe againſt <hi>our Neighbour;</hi> ſo under <hi>this,</hi> thoſe more directly and immediately <hi>againſt God:</hi> A<g ref="char:EOLhyphen"/>theiſm, Infidelity, Blaſphemy, and thoſe fooliſh, as much as hurtful Sins, that bring as great Reproach as Guilt upon them
+<pb n="33" facs="tcp:100898:18"/>they are found with <hi>Plutarch</hi> ſaith of <hi>Sylla,</hi> that he was much more exaſpera<g ref="char:EOLhyphen"/>ted againſt the <hi>Athenians</hi> for what they ſaid againſt him, than what they did: The one he looked upon as more excu<g ref="char:EOLhyphen"/>ſable, being in their own Defence; but the other he would make no Conſtructi<g ref="char:EOLhyphen"/>on of, but that it was merely ſpiteful. Something like it may be ſaid in this caſe what Men <hi>do</hi> againſt the Honour of God, admitteth comparatively of ſome Pity and Extenuation from our Frailties and ſtrong Temptations: This is <hi>Hu<g ref="char:EOLhyphen"/>mane Nature;</hi> but to ſpeak againſt it, and teach Men ſo to do, where no Senſitive Appetite is gratified, this is ſuch a <hi>Plato<g ref="char:EOLhyphen"/>nick</hi> Love of Wickedneſs, as looketh merely <hi>malicious</hi> and <hi>Diabolical.</hi>
+            </p>
+            <p>Now theſe ſorts of Sins which this Age hath ſo abounded in, it is a more proper Remedy for than any. It is an excellent <hi>Medicine</hi> for any Sin, to miti<g ref="char:EOLhyphen"/>gate
+<pb facs="tcp:100898:19"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> maketh <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. For however <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon the Point of this Sword, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they ſee nothing; and with <hi>Balaam,</hi> look upon it as the Reſtineſs or Cowardiſe of the Aſſe, to make any Bo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing at it; when once with his their Eyes are opened, they acknowledge their Error, and are aſtoniſhed at the Danger. Who will diſpute againſt Pro<g ref="char:EOLhyphen"/>vidence that owneth a Future State? Who droll upon the Scriptures that thinketh in them he hath Eternal Life? Who make a Mock at Sin, that believ<g ref="char:EOLhyphen"/>eth there is a Worm that dieth not? Who diſobey them that rule over them in the Lord, that conſidereth they watch for their Souls? Such an effectual Stop would it give to the Sins of Men of all Kinds, to be ſenſible of this Im<g ref="char:EOLhyphen"/>portant Truth, <hi>That the Spirit of Man go<g ref="char:EOLhyphen"/>eth upward, though the Spirit of the Beaſt go<g ref="char:EOLhyphen"/>eth downward to the Earth.</hi>
+            </p>
+            <pb facs="tcp:100898:19"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> leave to exp<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I muſt not ſuppo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to, to be of them that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Complaint, do not you <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Spirit of Man goeth upward <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you do acknowledge it; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that (miſerable Riddles of <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> we are!) How very little is there of any of theſe Fruits? This Man, ſaith he ma<g ref="char:EOLhyphen"/>keth no doubt of it, and yet liveth in <hi>Rioting and Drunkenneſs, in Chambering and Wantonneſs,</hi> and many other Vices, of which it is expreſly ſaid, that they who <hi>do ſuch things ſhall not inherit the Kingdom of God.</hi> Another pretendeth he doth believe it, and yet is <hi>covetous and proud, unjuſt and hard hearted,</hi> and maketh no better uſe of the <hi>Mammon of <g ref="char:V">Ʋ</g>nrighte<g ref="char:EOLhyphen"/>ouſneſs,</hi> than thoſe uncharitable ones that were to depart <hi>accurſed into Everlaſting Burnings.</hi> A Third profeſſeth he is con<g ref="char:EOLhyphen"/>vinced of it; but yet a <hi>little ſleep, yet a
+<pb n="36" facs="tcp:100898:20"/>little ſlumber,</hi> and <hi>worketh not while the Day is, though the Night is coming, when no man can work.</hi>
+            </p>
+            <p>And is this our Kindneſs to our bet<g ref="char:EOLhyphen"/>ter Part? What <hi>Auguſtus</hi> is ſaid to have replied, when told how <hi>Herod</hi> had killed all the Males from two years old and un<g ref="char:EOLhyphen"/>der, and among the reſt his own; That <hi>it was better being his Hog than his Son,</hi> This precious Heavenly Gueſt within us may too, wiſh it had been any thing but what it is. How do we give it cauſe to lament its own Dignity, and be troubled at its Prerogative! to be frighted to think it hath no End, and repine that it was not a Lamb or Worm! How may it ſigh with Sadneſs, Oh that I had been thy Body! then thou would'ſt have fed and cloathed me. Oh that I had been thy Friend! then thou wouldſt have been faithful and true to me. Oh that I had been thy Child! then thou would'ſt have
+<pb n="37" facs="tcp:100898:20"/>laid up and provided for me. Now Wretch that I am, I can have no Re<g ref="char:EOLhyphen"/>gard; but am daily expoſed to Everlaſt<g ref="char:EOLhyphen"/>ing Hazards for Humors, Toys and Fol<g ref="char:EOLhyphen"/>lies!</p>
+            <p>To ſtop all ſuch too juſt Reproaches for the time to come, let us, in this Solemn Seaſon, for the judging of our ſelves, take their Caſe into better Conſiderati<g ref="char:EOLhyphen"/>on. Uſe them ſo while they are in the Body, as we ſhall wiſh we had done when they are going forth of it. Let us not for the ſake of any thing that is Tempo<g ref="char:EOLhyphen"/>ral, make a Forfeiture of that which is Eternal: Nor to pleaſe that part of us <hi>which goeth downward to the Earth, loſe that which goeth upward.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:100898:21"/>
+            <head>Sermons Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhops Head</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>DR. <hi>Hick</hi>'s Sermon at the Act at <hi>Oxford.</hi> 40
+<list>
+                     <item>—before the Lord Mayor <hi>Peculium Dei.</hi> 40</item>
+                     <item>—Notion of Perſecution. 40</item>
+                     <item>—before the L. Mayor <hi>Jan.</hi> 30. at <hi>Bow</hi> Church, 1682.</item>
+                     <item>—Sermon of Temptations before the Lord Mayor. 40</item>
+                     <item>—<hi>Moral Shechinah,</hi> or a Diſcourſe of God's Glory, in a Sermon at the <hi>York-ſhire</hi> Feaſt, <hi>Jan.</hi> 11. 1682.</item>
+                  </list>
+               </item>
+               <item>Dr <hi>Sharpe</hi>'s Sermon before the Lord Mayor. 40
+<list>
+                     <item>—at the <hi>Spittle</hi> and <hi>York-ſhire</hi> Feaſt. 40</item>
+                     <item>—before the Houſe of Commons, <hi>April</hi> 11. 1679.</item>
+                     <item>—at the Election of the Lord Mayor. 1680. 40</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Smith</hi>'s two Aſſize Sermons. 80
+<list>
+                     <item>—two Sermons on the 3d of <hi>May</hi> and 29th of <hi>May.</hi> 40</item>
+                     <item>—one <hi>Lent</hi> Sermon. 40</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Thorpe</hi>'s Sermon before the Lord Mayor. 40</item>
+               <item>Dr. <hi>Woodrof</hi> his Sermon before the Lord Mayor. 40</item>
+               <item>Mr. <hi>William</hi>'s Sermon before the Lord Mayor. 40</item>
+               <item>Mr. <hi>Lynford</hi>'s Sermons. 40</item>
+               <item>Mr. <hi>Bryan Turner</hi>'s Sermon <hi>Teſtimonium Jeſu.</hi> 40</item>
+               <item>Mr. <hi>John Turner</hi>'s Sermon of Tranſubſtantiation. 40</item>
+               <item>Mr. <hi>Lamb</hi>'s Sermon before the King at <hi>Windſor.</hi> 40
+<list>
+                     <item>—Sermon before the Lord Mayor. <hi>Febr.</hi> 5th. 1682.</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Brown</hi>'s Viſitation Sermon. 40</item>
+               <item>Dr. <hi>Fowler</hi>'s Sermon at the Aſſizes at <hi>Glouceſter.</hi> 40</item>
+               <item>Mr. <hi>Cutlove</hi>'s 2 Aſſize Sermons at St. <hi>Edmund-Bury.</hi> 40</item>
+               <item>Mr. <hi>Inett</hi>'s Sermon at the Aſſizes at <hi>Warwick.</hi> 40</item>
+               <item>Mr. <hi>Edward Sermon</hi>'s Sermon before the Lord Mayor. 40</item>
+               <item>Mr. <hi>Reſbury</hi>'s Sermon before the <hi>Charter-houſe</hi> Schollers. 40
+<list>
+                     <item>—Sermon at the Funeral of Sir <hi>Allen Broderick.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Needham</hi>'s 6 Sermons at <hi>Cambridge.</hi> 80</item>
+               <item>Mr. <hi>Thomas Smith</hi>'s Sermon concerning the Doctrine, U<g ref="char:EOLhyphen"/>nity, and Profeſſion of the Chriſtian Faith. Preached before the Univerſity of <hi>Oxford,</hi> with an Appendix concerning the Apoſtles Creed. 1682.</item>
+               <pb facs="tcp:100898:21"/>
+               <item>Dr. <hi>John More</hi>'s Sermon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore the Lord Mayor. 40</item>
+               <item>Dr. <hi>Callamy</hi>'s Sermon preached before the Lord Mayor at <hi>Bow</hi> Church, on the 29th of <hi>May.</hi> 1682.</item>
+               <item>Proſecution, no Perſecution: Or the Difference between ſuffering for Diſobedience and Faction, in a Sermon preached at St. <hi>Edmund-Bury</hi> in <hi>Suffolk,</hi> on the 22d. of <hi>March,</hi> 1681. by <hi>Nath. Bisbie.</hi> D.D.</item>
+               <item>Dr. <hi>Bisbie</hi>'s <hi>Modern Phariſees,</hi> a Sermon, on the 23d. of <hi>Matth.</hi> 15th. <hi>ver.</hi> ſhewing the Principles of the preſent Jeſuits and Puritans, to be of the ſame evil Influ<g ref="char:EOLhyphen"/>ence. 40</item>
+               <item>Mr. <hi>Payne</hi>'s Sermon preached <hi>June</hi> 29. 1682. at the <hi>Brent<g ref="char:EOLhyphen"/>wood</hi> Schollers Feaſt. 40</item>
+               <item>Mr. <hi>Wraye</hi>'s Sermon, <hi>The Rebellious City deſtroy'd,</hi> being an Anniuerſary Sermon in Memory of the Dreadful Fire of <hi>London,</hi> Preached in St. <hi>Olave Hartſtreet. Sept.</hi> 2d. 1682.</item>
+               <item>Mr. <hi>Wraye</hi>'s Sermon on the fifth of <hi>November,</hi> 1682.</item>
+               <item>Mr. <hi>Evan</hi>'s Sermon before the Lord Mayor, <hi>Moderation ſtated,</hi> Octob. 22d. 1682.</item>
+               <item>Mr. <hi>Kidder</hi>'s Sermon before the Lord Mayor, <hi>July</hi> 16. 2682.</item>
+               <item>Mr. <hi>Richardſon</hi>'s Sermon before the Lord Mayor <hi>Septem.</hi> 17. 1682.</item>
+               <item>Mr. <hi>Milbourn</hi>'s Sermon, <hi>The Original of Rebellion: Or the Ends of Separation,</hi> preached on the 30th of <hi>January</hi> in the Pariſh Church of <hi>Great Yearmouth.</hi>
+               </item>
+               <item>Mr. <hi>Gipps</hi>'s three Sermons Preached in Lent and Summer Aſſizeslaſt, at <hi>Lancaſter,</hi> and one on the Lord's Day in the late Guild of <hi>Preſton.</hi>
+               </item>
+               <item>Mr. <hi>Gaskarths</hi> Sermon, preached upon the firſt occaſion after the Death of his Grace <hi>John</hi> Duke of <hi>Lau<g ref="char:EOLhyphen"/>derdale.</hi> 40</item>
+               <item>Mr. <hi>Young</hi>'s Sermon before the Lord Mayor. <hi>Febr.</hi> 4th. 1682.</item>
+               <item>Dr. <hi>Butler</hi>'s Sermon before the King at <hi>Windſor.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
